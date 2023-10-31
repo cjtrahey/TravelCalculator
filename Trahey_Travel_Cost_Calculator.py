@@ -1,18 +1,3 @@
-# Christopher-John Trahey
-# Chapter 2 Homework - Travel Cost Calculator
-# September 12, 2022
-# This program takes in various values regarding travel distance and travel cost, and outputs the cost for the trip.
-# Developed using Visual Studio code
-
-# TASKS
-# Total Miles Driven as an integer (totalMilesDriven)
-# Gallons of gasoline bought as a decimal (gallonsGasBought) f function?
-# Cost per gallon of gas in dollars + cents (costPerGallon)
-# Formula 1: totalMilesDriven / gallonsGasBought
-# Formula 2: gallonsGasBought / costPerGallon
-# Display results
-# Refer to Slide 36 for a template
-
 # Define Variables
 totalMilesDriven = int(input("Enter Miles Driven as an Integer: "))
 gallonsGasBought = float(input("Enter Gallons of Gasoline Purchased as a Decimal: "))
